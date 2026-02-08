@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋 **I'm John**.
 
+I'm building projects...
 
-**I'm John**.
+### Current projects :
+- **Kilk**
+- **DeCakes**
 
